@@ -1,0 +1,53 @@
+*{
+    h1{ 
+        color:darkcyan ;
+    }
+    h2 {
+            font-size: 28px;
+            color: darkmagenta;
+            line-height: 100%;
+            margin-bottom: 24px;
+    
+        }
+
+    p {
+        color: #5f564d;
+        line-height: 150%;
+        margin-bottom: 32px;
+    }
+    p {
+        color: #5f564d;
+        line-height: 150%;
+        margin-bottom: 32px;
+
+    }
+    li {
+        padding-left: 10px;
+        color: #5f564d;
+        line-height: 150%;
+
+    }
+    li + li {
+        margin-top: 8px;
+    }
+
+    ol, ul {
+        margin-left: 20px;
+
+    }
+        img {
+       border-radius: 15px;
+
+        }
+    body{
+     align-items: center;
+     display: flex;
+     justify-content: center;
+}
+        
+
+
+
+
+
+}
